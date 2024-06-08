@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
+easzlab/kubeasz:3.6.4 registry.cn-hangzhou.aliyuncs.com/chujiang/easzlab-kubeasz:3.6.4
