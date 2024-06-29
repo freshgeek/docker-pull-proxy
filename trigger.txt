@@ -1,1 +1,4 @@
 easzlab/kubeasz:3.6.4 registry.cn-hangzhou.aliyuncs.com/chujiang/easzlab-kubeasz:3.6.4
+rabbitmq:3.9.15-management registry.cn-hangzhou.aliyuncs.com/chujiang/rabbitmq:3.9.15-management
+nacos/nacos-server:v2.1.0 registry.cn-hangzhou.aliyuncs.com/chujiang/nacos-server:v2.1.0
+ 
