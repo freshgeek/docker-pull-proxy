@@ -1,3 +1,2 @@
-bitnami/nginx-ingress-controller:1.10.1-debian-12-r7 registry.cn-hangzhou.aliyuncs.com/chujiang/bitnami-nginx-ingress-controller:1.10.1-debian-12-r7
-bitnami/nginx:1.27.0-debian-12-r1 registry.cn-hangzhou.aliyuncs.com/chujiang/bitnami-nginx:1.27.0-debian-12-r1
-
+apache/rocketmq:5.2.0 registry.cn-hangzhou.aliyuncs.com/chujiang/apache-rocketmq:5.2.0
+apacherocketmq/rocketmq-dashboard:1.0.0 registry.cn-hangzhou.aliyuncs.com/chujiang/apacherocketmq-rocketmq-dashboard:1.0.0
