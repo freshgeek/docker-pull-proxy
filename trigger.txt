@@ -1,2 +1,1 @@
-apache/rocketmq:5.2.0 registry.cn-hangzhou.aliyuncs.com/chujiang/apache-rocketmq:5.2.0
-apacherocketmq/rocketmq-dashboard:1.0.0 registry.cn-hangzhou.aliyuncs.com/chujiang/apacherocketmq-rocketmq-dashboard:1.0.0
+place1/wg-access-server registry.cn-hangzhou.aliyuncs.com/chujiang/place1-wg-access-server
