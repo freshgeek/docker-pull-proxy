@@ -1,1 +1,1 @@
-snowdreamtech/frps registry.cn-hangzhou.aliyuncs.com/chujiang/snowdreamtech-frps
+place1/wg-access-server:v0.4.6 registry.cn-hangzhou.aliyuncs.com/chujiang/place1-wg-access-server:v0.4.6
