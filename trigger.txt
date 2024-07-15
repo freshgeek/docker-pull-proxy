@@ -1,1 +1,2 @@
-place1/wg-access-server:v0.4.6 registry.cn-hangzhou.aliyuncs.com/chujiang/place1-wg-access-server:v0.4.6
+#place1/wg-access-server:v0.4.6 registry.cn-hangzhou.aliyuncs.com/chujiang/place1-wg-access-server:v0.4.6
+jumpserver/jms_all:v4.0.0 registry.cn-hangzhou.aliyuncs.com/chujiang/jumpserver-jms_all:v4.0.0
