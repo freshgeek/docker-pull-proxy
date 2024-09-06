@@ -1,4 +1,5 @@
 #place1/wg-access-server:v0.4.6 registry.cn-hangzhou.aliyuncs.com/chujiang/place1-wg-access-server:v0.4.6
 #jumpserver/jms_all:v4.0.0 registry.cn-hangzhou.aliyuncs.com/chujiang/jumpserver-jms_all:v4.0.0
 #jc21/nginx-proxy-manager:latest registry.cn-hangzhou.aliyuncs.com/chujiang/jc21-nginx-proxy-manager:latest
-uozi/nginx-ui:latest registry.cn-hangzhou.aliyuncs.com/chujiang/uozi-nginx-ui:latest
+#uozi/nginx-ui:latest registry.cn-hangzhou.aliyuncs.com/chujiang/uozi-nginx-ui:latest
+apache/skywalking-helm:4.6.0 registry.cn-hangzhou.aliyuncs.com/chujiang/apache-skywalking-helm:4.6.0
