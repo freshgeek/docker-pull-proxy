@@ -4,4 +4,5 @@
 #uozi/nginx-ui:latest registry.cn-hangzhou.aliyuncs.com/chujiang/uozi-nginx-ui:latest
 #rancher/rancher:v2.9.1 registry.cn-hangzhou.aliyuncs.com/chujiang/rancher:v2.9.1
 # bitcoin/bitcoin registry.cn-hangzhou.aliyuncs.com/chujiang/bitcoin
-uozi/nginx-ui:sha-c5ea44c registry.cn-hangzhou.aliyuncs.com/chujiang/nginx-ui:sha-c5ea44c
+#uozi/nginx-ui:sha-c5ea44c registry.cn-hangzhou.aliyuncs.com/chujiang/nginx-ui:sha-c5ea44c
+amazoncorretto:8u482-alpine3.23-jre registry.cn-hangzhou.aliyuncs.com/chujiang/amazoncorretto:8u482-alpine3.23-jre
